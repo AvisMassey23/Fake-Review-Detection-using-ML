@@ -31,7 +31,7 @@ Each model was evaluated based on **accuracy, weighted F1-score, and computation
 To run this project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fake-review-detection.git
+   git clone https://github.com/avismassey23/Fake-Review-Detection-using-ML.git
    ```
 2. Install dependencies:
    ```bash
